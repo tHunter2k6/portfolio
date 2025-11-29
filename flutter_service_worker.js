@@ -64,13 +64,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "1e0b31e5ad65849d037c2d0db4b005c2
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "10085eed663e97133411d55f2ff36a1f",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "2d8a2b7675b1c32bc71923a2af921649",
+"flutter_bootstrap.js": "df5194b009721172f7554045a334aecf",
 "icons/android-chrome-192x192.png": "2b5db905b5950ed882ad965bad8ea81c",
 "icons/android-chrome-512x512.png": "ba0ea732ed806894efe01741d96361ba",
 "icons/apple-touch-icon.png": "3d80da613bae1dd422738b31aceec8b7",
 "index.html": "d9af80ced268c205c80de1fc3fbb8095",
 "/": "d9af80ced268c205c80de1fc3fbb8095",
-"main.dart.js": "68eb0d747f2a5e9290712d154918077d",
+"main.dart.js": "6a6a5b1aeee1d049d127e94ab639f4f5",
 "manifest.json": "6178d8468cac404510dd8c157a72cf81",
 "version.json": "707a01ddcc10ab0f634057b5d16300dd"};
 // The application shell files that are downloaded before a service worker can
